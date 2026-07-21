@@ -52,4 +52,5 @@ Independent variables:
 Dependent variable:
 
 Attrition: Attrition is our response variable (binary) to indicate if an employee quit the job. The value includes Yes or No.
-<img width="468" height="627" alt="image" src="https://github.com/user-attachments/assets/61c9f91c-3931-4606-a123-dea54bf487e5" />
+<img width="468" height="627" alt="image" src="https://github.com/susanqisun/Employee-Attrition-Prediction/blob/main/process.png" />
+
