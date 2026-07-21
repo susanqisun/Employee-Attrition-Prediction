@@ -15,9 +15,11 @@ The following research questions will guide this study:
 2.	What is the best model to predict employees’ attrition?
 3.	Which features are most contributed to the response variable?
 
-Model Process:
+
+Model Training Process:
 
 <img width="468" height="627" alt="image" src="https://github.com/susanqisun/Employee-Attrition-Prediction/blob/main/process.png" />
+
 
 Domain Knowledge:
 
