@@ -16,6 +16,7 @@ The following research questions will guide this study:
 3.	Which features are most contributed to the response variable?
 
 Domain Knowledge:
+
 Attrition is one of the important issues in an organization. Stovel, M. and Bontis, N. (2002) draw attention on controlling attrition, they state that the value of employees to an organization is a very crucial element in the success of the organization. When employees leave an organization, they carry with them invaluable knowledge which is often the source of competitive advantage for the business. Attrition is defined as the normal and uncontrollable reduction of a work force because of retirement, death, sickness, and relocation. The employee attrition is often unpredictable and can leave gaps in an organization. If organizations know why their employees leave, they can develop effective strategies for employee retention. The purposes of this study are to find out why employees left the organization and to develop a model that can predict how likely the employee quit the job.
 There are many reasons why employee leave the organization.
 Based on the research of Firth et al (2007), intention to quit is largely influenced by job dissatisfaction, lack of commitment to the organization and feelings of stress. The work overload and job ambiguity which are the factors that trigger the chain of psychological states that lead to intention to quit. Reducing attrition can save organizations the considerable financial cost and effort involved in the recruitment, induction and training of replacement staff.
@@ -23,9 +24,9 @@ Griffeth et al. (2000) conclude that the predictors of employee turnover include
 Louis (1980) states that attrition takes place because new employees compare their actual experience with their past work experiences. Past work experience plays a significant role in taking decisions to quit in case the new worker’s expectations are not met.
 All the researches mentioned above have been completed over ten years ago. In this study, we’ll examine the factors that can result in employee attrition in IBM. We’ll also develop a model to predict the employee attrition. The outcome of this research can be utilized for redesigning the HR policies and practices and take corrective actions to reduce the attrition rate.
 
-Arrtibute Information
 
 Independent variables:
+
 1.	Age: the age of employees, all of them are over 18. - int, continuous
 2.	BusinessTravel: how frequency of employees’ business travel. - object,categorical data
 3.	DailyRate: the daily income each employee gets from company IBM. - positive integer, discrete
