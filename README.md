@@ -15,6 +15,10 @@ The following research questions will guide this study:
 2.	What is the best model to predict employees’ attrition?
 3.	Which features are most contributed to the response variable?
 
+Model Process:
+
+<img width="468" height="627" alt="image" src="https://github.com/susanqisun/Employee-Attrition-Prediction/blob/main/process.png" />
+
 Domain Knowledge:
 
 Attrition is one of the important issues in an organization. Stovel, M. and Bontis, N. (2002) draw attention on controlling attrition, they state that the value of employees to an organization is a very crucial element in the success of the organization. When employees leave an organization, they carry with them invaluable knowledge which is often the source of competitive advantage for the business. Attrition is defined as the normal and uncontrollable reduction of a work force because of retirement, death, sickness, and relocation. The employee attrition is often unpredictable and can leave gaps in an organization. If organizations know why their employees leave, they can develop effective strategies for employee retention. The purposes of this study are to find out why employees left the organization and to develop a model that can predict how likely the employee quit the job.
@@ -52,5 +56,6 @@ Independent variables:
 Dependent variable:
 
 Attrition: Attrition is our response variable (binary) to indicate if an employee quit the job. The value includes Yes or No.
-<img width="468" height="627" alt="image" src="https://github.com/susanqisun/Employee-Attrition-Prediction/blob/main/process.png" />
+
+
 
